@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UnitTest/UnitTest.csproj" Id="4c698500-50ec-4aab-b975-b403e2d33056" />
+  <Project Path="WorkingCore/WorkingCore.csproj" Id="e3788c31-44b6-4e8a-b6d2-83f6b9986a67" />
+</Solution>
